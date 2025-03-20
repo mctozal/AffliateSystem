@@ -1,0 +1,11 @@
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Shared\bin\Debug\net9.0\MeSoft.Shared.deps.json
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Shared\bin\Debug\net9.0\MeSoft.Shared.dll
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Shared\bin\Debug\net9.0\MeSoft.Shared.pdb
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Shared\obj\Debug\net9.0\MeSoft.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Shared\obj\Debug\net9.0\MeSoft.Shared.AssemblyInfoInputs.cache
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Shared\obj\Debug\net9.0\MeSoft.Shared.AssemblyInfo.cs
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Shared\obj\Debug\net9.0\MeSoft.Shared.csproj.CoreCompileInputs.cache
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Shared\obj\Debug\net9.0\MeSoft.Shared.dll
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Shared\obj\Debug\net9.0\refint\MeSoft.Shared.dll
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Shared\obj\Debug\net9.0\MeSoft.Shared.pdb
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Shared\obj\Debug\net9.0\ref\MeSoft.Shared.dll

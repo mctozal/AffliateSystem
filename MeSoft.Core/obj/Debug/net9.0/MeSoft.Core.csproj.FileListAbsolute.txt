@@ -1,0 +1,17 @@
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\bin\Debug\net9.0\MeSoft.Core.deps.json
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\bin\Debug\net9.0\MeSoft.Core.runtimeconfig.json
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\bin\Debug\net9.0\MeSoft.Core.dll
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\bin\Debug\net9.0\MeSoft.Core.pdb
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\bin\Debug\net9.0\MeSoft.Shared.dll
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\bin\Debug\net9.0\MeSoft.Shared.pdb
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\obj\Debug\net9.0\MeSoft.Core.csproj.AssemblyReference.cache
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\obj\Debug\net9.0\MeSoft.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\obj\Debug\net9.0\MeSoft.Core.AssemblyInfoInputs.cache
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\obj\Debug\net9.0\MeSoft.Core.AssemblyInfo.cs
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\obj\Debug\net9.0\MeSoft.Core.csproj.CoreCompileInputs.cache
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\obj\Debug\net9.0\MeSoft.C.638C5932.Up2Date
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\obj\Debug\net9.0\MeSoft.Core.dll
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\obj\Debug\net9.0\refint\MeSoft.Core.dll
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\obj\Debug\net9.0\MeSoft.Core.pdb
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\obj\Debug\net9.0\MeSoft.Core.genruntimeconfig.cache
+C:\Repos\MeSoft.AffiliateSystem\MeSoft.Core\obj\Debug\net9.0\ref\MeSoft.Core.dll

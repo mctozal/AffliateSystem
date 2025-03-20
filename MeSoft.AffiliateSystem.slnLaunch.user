@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MeSoft.API\\MeSoft.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MeSoft.Blazor\\MeSoft.Blazor.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
